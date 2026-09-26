@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Student Portfolio Website
 
 A beautiful, ready-to-use personal portfolio built with plain **HTML, CSS & JavaScript** — no frameworks, no build step. Just edit the text, push to GitHub, and it goes live with **GitHub Pages**.
@@ -94,3 +95,21 @@ The live site updates itself automatically. 🎉
 ---
 
 Made for the RYMEC workshop · Fork it, edit it, ship it. Happy coding! 💜
+=======
+## Hi there 👋
+
+<!--
+**UdayT10/UdayT10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> f4c57736557957a841602ed17bb4d09b6e48788c
